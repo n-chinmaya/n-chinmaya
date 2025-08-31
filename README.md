@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co/xcQPtdd/photo-of-me-2-1.png" width="150" style="border-radius: 50%" alt="Chinmaya Narmdeshwar"/>
+  <img src="https://i.ibb.co/sJpcPrTg/IMG-1640.jpg" width="150" style="border-radius: 50%" alt="Chinmaya Narmdeshwar"/>
 </p>
 
 <h1 align="center">
