@@ -19,7 +19,7 @@
     <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume"/>
   </a>
   <br>
-  <img src="https://img.shields.io/badge/CGPA-9.71-0077B5?style=for-the-badge" alt="CGPA" />
+  <img src="https://img.shields.io/badge/CGPA-9.73-0077B5?style=for-the-badge" alt="CGPA" />
   <img src="https://img.shields.io/badge/Bengaluru-Karnataka-blue?style=for-the-badge" alt="Location" />
 </p>
 
