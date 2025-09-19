@@ -27,7 +27,7 @@
 
 ### 👨‍💻 **About Me**
 
-I'm a passionate and detail-oriented Artificial Intelligence and Data Science student with a strong foundation in programming and problem-solving. I thrive on building intelligent systems that solve real-world challenges. When I'm not coding, you can find me enthusiastically supporting Bengaluru FC!
+I'm a passionate and detail-oriented Artificial Intelligence and Data Science student with a strong foundation in programming and problem-solving. I thrive on building intelligent systems that solve real-world challenges. When I'm not coding, you can find me enthusiastically supporting Indian Football & Bengaluru FC!
 
 ---
 
