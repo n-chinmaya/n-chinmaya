@@ -117,7 +117,7 @@ I'm a passionate and detail-oriented Artificial Intelligence and Data Science st
   <ul>
     <li>Bachelor of Engineering (B.E.) in Artificial Intelligence & Data Science</li>
     <li><i>Dec 2022 – Present</i></li>
-    <li><b>CGPA: 9.71</b> (Until Semester 6)</li>
+    <li><b>CGPA: 9.73</b> (Until Semester 6)</li>
   </ul>
 </details>
 
