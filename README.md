@@ -79,6 +79,20 @@ I'm a passionate and detail-oriented Artificial Intelligence and Data Science st
 - **Languages:** English (Professional Proficiency) · Hindi (Native/Bilingual Proficiency) · Kannada (Basic)
 
 ---
+## 💼 Experience
+
+### Software Development Engineer Intern
+**BNP Paribas ISPL** | Jan 2026 – Jul 2026 | Bengaluru, India
+
+- Modernized enterprise backend applications by migrating production services to Java 21, improving maintainability, compatibility, and long-term support.
+- Developed and enhanced RESTful backend services using Java, Spring Boot, JPA/Hibernate, and SQL within the SLAB Workbench financial platform.
+- Built and maintained Spring Batch jobs for high-volume data ingestion and processing from CSV sources into Oracle databases.
+- Designed and implemented Flyway database migrations, creating version-controlled schemas and database changes.
+- Worked with Apache Kafka to support event-driven communication and asynchronous data processing.
+- Developed backend business logic, optimized database interactions, and contributed to production-ready enterprise applications.
+- Wrote integration and unit tests using Spring Boot Test to ensure application reliability and stability.
+- Used Git, Bitbucket, Maven, Jenkins, Ansible, Postman, JIRA, and Confluence as part of an Agile CI/CD development workflow.
+---
 
 ### 🚀 **Featured Projects**
 
